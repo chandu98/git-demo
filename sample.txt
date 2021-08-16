@@ -1,1 +1,3 @@
-Hi FTD! New to GIT learning resource, Learning new things.
+Hi FTD! New to git learning resource, Learning new things.
+
+Add a new line in the file
